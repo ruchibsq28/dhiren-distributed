@@ -1,0 +1,6 @@
+CHANGED,/home/dhiren/AndroidStudioProjects/SimpleDynamo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/edu/buffalo/cse/cse486586/simpledynamo/SimpleDynamoProvider$ConcurrentOpe$override.class
+CHANGED,/home/dhiren/AndroidStudioProjects/SimpleDynamo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/edu/buffalo/cse/cse486586/simpledynamo/SimpleDynamoProvider$SendTask$override.class
+CHANGED,/home/dhiren/AndroidStudioProjects/SimpleDynamo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/edu/buffalo/cse/cse486586/simpledynamo/SimpleDynamoProvider$ServerTask$override.class
+CHANGED,/home/dhiren/AndroidStudioProjects/SimpleDynamo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/home/dhiren/AndroidStudioProjects/SimpleDynamo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/edu/buffalo/cse/cse486586/simpledynamo/SimpleDynamoProvider$SendTaskQueryAll$override.class
+CHANGED,/home/dhiren/AndroidStudioProjects/SimpleDynamo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/edu/buffalo/cse/cse486586/simpledynamo/SimpleDynamoProvider$override.class
